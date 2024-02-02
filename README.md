@@ -6,4 +6,8 @@ weeks_and_days.cpp - given an input number of travel days, returns the weeks and
 space.cpp - given an input weight and planet, prints the relative weight on said planet (switch cases)  
 leap_year.cpp - given an input year, detects if year > 1000 and then determines if the year is a leap year or not (conditionals, logical operators, subfunctions)  
 vector_parse.cpp - populates a vector of size 5 with random numbers and outputs said vector, the sum of the vector's even numbers, and the product of the vector's odd numbers (vectors, random numbers, for loops)  
-
+switch_case_arithmetics.cpp - different arithmetic operations defined with a switch statement (switch cases)  
+determine_parity.cpp - determines a number's parity (modulus operation, if statements)  
+absolute_value.cpp - takes the absolute value of a number (if statements)  
+character_classification.cpp - determines if a character is a digit, a capital or lowercase letter, or not alphanumeric (if statements, char datatype)  
+convert_24hr_to_12hr.cpp - converts military time to the better kind of time (if statements, multiple inputs, string datatype)  
